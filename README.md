@@ -1,9 +1,9 @@
 
-# Cyberpsychose-list (rare directory list with juicy data)
+# Cyberpsychose list (rare directory list with juicy data)
 
 Hi, it's Tatsu. It's been about 4 months since I created this wordlist that I was personally using, and it helped me find information several times. So, I'm sharing this wordlist with you !
 
-## Authors
+## 👨‍💻Authors
 
 - [@tatsu](https://github.com/cyberpsychose)
 

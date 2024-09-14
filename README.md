@@ -8,6 +8,7 @@ Hi, it's Tatsu. It's been about 4 months since I created this wordlist that I wa
 - [@tatsu](https://github.com/cyberpsychose)
 
 - [@exorc1sme](https://github.com/exorc1sme)
+- [@kazssh](https://github.com/kazssh)
 
 ## 🔗 Links
 
